@@ -69,7 +69,7 @@ class Weather:
             return "Não consegui obter a previsão do tempo."
 
 class YouTubePlayer:
-    YOUTUBE_API_KEY = 'AIzaSyBbb9rfwo6lwahChiSQQPIIS4MZPQTpNCw'
+    YOUTUBE_API_KEY = 'YouTube_API'
     player = None
 
     @staticmethod
